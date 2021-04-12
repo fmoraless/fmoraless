@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Mis Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmoraless)](https://github.com/fmoraless/github-readme-stats)
+
+## Lenguajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmoraless&layout=compact)](https://github.com/fmoraless/github-readme-stats)
