@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando [Academia Virtual](https://github.com/fmoraless/e-learning)
+- 🔭 Actualmente estoy trabajando [Sistema punto de ventas](https://github.com/fmoraless/ventas-lite)
 
 - 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Python, Django, Ui Path, SCRUM**
 
-- 💬 Preguntame acerca de **Laravel, PHP, SQL**
+- 💬 Preguntame acerca de **Laravel, PHP, SQL, Livewire**
 
 - 📫 Como contactarme **fcomorales.sanchez@gmail.com**
 
