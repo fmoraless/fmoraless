@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando [Sistema punto de ventas](https://github.com/fmoraless/ventas-lite)
+- 🔭 Actualmente estoy trabajando [GPS POSITION](https://gps.position.cl/)
 
-- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Python, Django, Ui Path, SCRUM**
+- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby on Rails**
 
 - 💬 Preguntame acerca de **Laravel, PHP, SQL, Livewire**
 
