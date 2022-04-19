@@ -9,7 +9,7 @@
 
 - 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby on Rails**
 
-- 💬 Preguntame acerca de **Laravel, PHP, SQL, Livewire**
+- 💬 Preguntame acerca de **Laravel, PHP, SQL, Livewire, Ruby on Rails, Vue**
 
 - 📫 Como contactarme **fcomorales.sanchez@gmail.com**
 
