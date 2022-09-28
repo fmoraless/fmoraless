@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando [GPS POSITION](https://gps.position.cl/)
+- 🔭 Actualmente estoy trabajando [UMINE (ex Classroom TV)](https://umine.com/)
 
 - 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby on Rails**
 
