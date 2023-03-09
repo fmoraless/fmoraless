@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando [UMINE (ex Classroom TV)](https://umine.com/)
 
-- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby on Rails**
+- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby on Rails, React**
 
 - 💬 Preguntame acerca de **Laravel, PHP, SQL, Livewire, Ruby on Rails, Vue**
 
