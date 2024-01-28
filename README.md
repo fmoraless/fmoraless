@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Morales Sánchez</h1>
-<h3 align="center">Fanático por la programación y la tecnología.</h3>
+<h3 align="center">Programación y tecnología.</h3>
 
 
 
@@ -7,9 +7,9 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos Personales y colaboraciones.
 
-- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby on Rails, React**
+- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, Ruby, React**
 
-- 💬 Preguntame acerca de **Laravel, PHP, SQL, Livewire, Ruby on Rails, Vue**
+- 💬 Preguntame acerca de **Laravel, PHP, SQL, React Native, Ruby on Rails, Vue**
 
 - 📫 Como contactarme **fcomorales.sanchez@gmail.com**
 
