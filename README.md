@@ -7,9 +7,9 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos Personales y colaboraciones.
 
-- 🌱 Estoy constantemente aprendiendo **Laravel, Vue, React Native**
+- 🌱 Estoy constantemente aprendiendo **Desarrollo móvil y web**
 
-- 💬 Preguntame acerca de **Laravel, React Native, Vue**
+- 💬 Preguntame acerca de **React Native, React, Next.js y Laravel**
 
 - 📫 Como contactarme **fcomorales.sanchez@gmail.com**
 
